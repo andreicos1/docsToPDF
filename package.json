@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "hummus": "^1.0.115",
+    "pdf-merger-js": "^4.3.0",
+    "puppeteer-core": "^20.4.0"
+  }
+}
